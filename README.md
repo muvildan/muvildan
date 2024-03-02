@@ -4,29 +4,29 @@
   <summary>Know me better 👀</summary>  
   &nbsp;
   
-  I am a 25 yo from sunny Barcelona, who has found in code a fun way of expressing thougts, ideas, and creativity.
+  I am a 26 yo from sunny Barcelona, who has found in code a fun way of expressing thoughts, ideas, and creativity.
   Sometimes, you just know where you're meant to be, and when I wrote my first `"Hello World!"`, I knew very well! 💡
   
-  Since then, I have graduated from college, completed a couple bootcamps, participated in hackathons, taken internships, and helped companies grow     their digital products in a rapid and robust way.
+  Since then, I have graduated from college, completed a couple of bootcamps, participated in hackathons, taken internships, and helped companies grow their digital products rapidly and robustly.
   
-  I am gazed by the nature of destructuring complex challenges into smaller and better approachable tasks. Plus, I thrive in agile environments, reason why I have already gathered ~4 years of experience in startup players. Ranging from smaller teams in a hypergrowing path, to better settled businesses with an eye put on becoming break-even shortly.
+  I am gazed by the nature of destructuring complex challenges into smaller and better approachable tasks. Plus, I thrive in agile environments, reason why I have already gathered ~4 years of experience in startup players. Ranging from smaller teams in a hypergrowing path to better-settled businesses with an eye put on becoming break-even shortly.
     
 </details>
 
 ## Currently... 
 
 
-- 🔭 Creating **a front-end components library to not only help fellow devs be more agile but better understand their code!**
+- 🔭 Creating **a components library to not only help fellow devs be more agile but better understand their code.** STAY TUNED!
 
-- 🌱 Learning about **data structures, algorithms, and testing practices.**
+- 🌱 Learning about **data structures, algorithms, and best testing practices.**
 
 - 👯 Looking forward to collaborating with peers in **OS projects, Hackathons, or completing Katas!**
 
 - 📫 For any inquiry, you can reach me out at: **danielvilches98@gmail.com**
 
-- 📄 And... if you'd like to know me a bit better, you can check my [CV](https://drive.google.com/file/d/1QGKq_4INEFeJituGso7SZ87rmub5FCCO/view?usp=sharing) here or connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
+- 📄 And... if you'd like to know me a bit better, you can check my [CV](https://drive.google.com/file/d/1VGXWI7Tw6GsZCgJ7doTD0WVMZSGVDKfx/view?usp=drive_link) here or connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
 
-<h3>My tech stack includes, but is not limited to:</h3>
+<h3>My tech stack includes but is not limited to:</h3>
 <div>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -39,6 +39,7 @@
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 	<img width="40" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/>
