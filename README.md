@@ -24,7 +24,7 @@
 
 - 📫 For any inquiry, you can reach me out at: **danielvilches98@gmail.com**
 
-- 📄 And... if you'd like to know me a bit better, you can check my [CV](https://drive.google.com/file/d/1VGXWI7Tw6GsZCgJ7doTD0WVMZSGVDKfx/view?usp=drive_link) here or connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
+- 📄 And... if you'd like to know me a bit better, you can connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
 
 <h3>My tech stack includes but is not limited to:</h3>
 <div>
