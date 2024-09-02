@@ -14,17 +14,15 @@
 </details>
 
 ## Currently... 
+🔭 Creating **a components library to not only help fellow devs be more agile but better understand their code.** STAY TUNED!
 
+🌱 Learning about **data structures, algorithms, and best testing practices.**
 
-- 🔭 Creating **a components library to not only help fellow devs be more agile but better understand their code.** STAY TUNED!
+👯 Looking forward to collaborating with peers in **OS projects, Hackathons, or completing Katas!**
 
-- 🌱 Learning about **data structures, algorithms, and best testing practices.**
+📫 For any inquiry, you can reach me out at: **danielvilches98@gmail.com**
 
-- 👯 Looking forward to collaborating with peers in **OS projects, Hackathons, or completing Katas!**
-
-- 📫 For any inquiry, you can reach me out at: **danielvilches98@gmail.com**
-
-- 📄 And... if you'd like to know me a bit better, you can connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
+📄 And... if you'd like to know me a bit better, you can connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
 
 <h3>My tech stack includes but is not limited to:</h3>
 <div>
