@@ -4,25 +4,15 @@
   <summary>Know me better 👀</summary>  
   &nbsp;
   
-  I am a 26 yo from sunny Barcelona, who has found in code a fun way of expressing thoughts, ideas, and creativity.
+  I am a 27 yo from sunny Barcelona, who has found in code a fun way of expressing thoughts, ideas, and creativity.
   Sometimes, you just know where you're meant to be, and when I wrote my first `"Hello World!"`, I knew very well! 💡
   
-  Since then, I have graduated from college, completed a couple of bootcamps, participated in hackathons, taken internships, and helped companies grow their digital products rapidly and robustly.
+  Since then, I have graduated from college, completed a couple of bootcamps, participated in hackathons, taken internships, and helped companies grow their digital products rapidly and robustly. Currently, I'm a Frontend Software Engineer at [Pennylane](https://www.pennylane.com)
   
   I am gazed by the nature of destructuring complex challenges into smaller and better approachable tasks. Plus, I thrive in agile environments, reason why I have already gathered ~4 years of experience in startup players. Ranging from smaller teams in a hypergrowing path to better-settled businesses with an eye put on becoming break-even shortly.
-    
+
+  📄 If you'd like to know me a bit better, you can connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
 </details>
-
-## Currently... 
-🔭 Creating **a components library to not only help fellow devs be more agile but better understand their code.** STAY TUNED!
-
-🌱 Learning about **data structures, algorithms, and best testing practices.**
-
-👯 Looking forward to collaborating with peers in **OS projects, Hackathons, or completing Katas!**
-
-📫 For any inquiry, you can reach me out at: **danielvilches98@gmail.com**
-
-📄 And... if you'd like to know me a bit better, you can connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
 
 <h3>My tech stack includes but is not limited to:</h3>
 <div>
