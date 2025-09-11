@@ -7,9 +7,9 @@
   I am a 27 yo from sunny Barcelona, who has found in code a fun way of expressing thoughts, ideas, and creativity.
   Sometimes, you just know where you're meant to be, and when I wrote my first `"Hello World!"`, I knew very well! 💡
   
-  Since then, I have graduated from college, completed a couple of bootcamps, participated in hackathons, taken internships, and helped companies grow their digital products rapidly and robustly. Currently, I'm a Frontend Software Engineer at [Pennylane](https://www.pennylane.com)
+  Since then, I have graduated from college, completed a couple of bootcamps, participated in hackathons, taken internships, and helped companies grow their digital products rapidly and robustly.
   
-  I am gazed by the nature of destructuring complex challenges into smaller and better approachable tasks. Plus, I thrive in agile environments, reason why I have already gathered ~4 years of experience in startup players. Ranging from smaller teams in a hypergrowing path to better-settled businesses with an eye put on becoming break-even shortly.
+  I am gazed by the nature of destructuring complex challenges into smaller and better approachable tasks. Plus, I thrive in agile environments, reason why I have already gathered ~4 years of experience in startup players. Ranging from smaller teams in a hypergrowing path to better-settled businesses with an eye put on becoming break-even shortly. Currently, I'm having fun as a Frontend Engineer at [Pennylane](https://www.pennylane.com).
 
   📄 If you'd like to know me a bit better, you can connect via <a href="https://linkedin.com/in/danvilmu" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danvilmu" height="15" width="20" /></a>.
 </details>
